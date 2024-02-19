@@ -1,0 +1,14 @@
+.dropdownbody {
+  border: 1px solid black;
+  text-align: left;
+}
+
+.dropdown {
+  width: 100px;
+  margin-top: 10px;
+  margin-right: 10px;
+}
+
+.dropdownheader {
+  border: 1px solid black;
+}
